@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />,Hi,  I'm Pavani</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />Hi,  I'm Pavani</h1>
 
 ### 💡 About me: 
 Dedicated Data Science student with a keen interest in machine learning and AI.

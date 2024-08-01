@@ -9,7 +9,7 @@ Dedicated Data Science student with a keen interest in machine learning and AI.
 - **Machine Learning:** Regression, Classification, Clustering.
 - **Data Visualization:** Power BI, Matplotlib, Seaborn.
 - **Cloud Platforms:** AWS, Google Cloud.
-- **Databases:** MYSQL.
+- **Databases:** MySQL.
 
 ### 🌱 Learning Goals - 2024
 
